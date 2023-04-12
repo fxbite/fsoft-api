@@ -2,7 +2,7 @@
   "name": "intern_angular_greenwich",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.bundle.js",
   "scripts": {
     "start": "node server.bundle.js",
     "dev": "cross-env NODE_ENV=development ts-node-dev src/server.ts",
